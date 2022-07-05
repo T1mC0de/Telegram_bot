@@ -2,4 +2,4 @@ bot_run.bat
 TOKEN.yaml
 
 venv*
-.idea/
+.idea*
